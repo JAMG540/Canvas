@@ -1,0 +1,7 @@
+#Sun Mar 26 20:47:36 CST 2017
+base.0=C\:\\Users\\Jose Angel\\Desktop\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4f10d62bc88f78f82ff335b5f2518a02f4970447
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jose Angel\\Desktop\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8b870b9cf11bc404dc64f99cb204216c59d18995\\classes.dex
+base.1=C\:\\Users\\Jose Angel\\Desktop\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8b870b9cf11bc404dc64f99cb204216c59d18995
+file.0=C\:\\Users\\Jose Angel\\Desktop\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4f10d62bc88f78f82ff335b5f2518a02f4970447\\classes.dex

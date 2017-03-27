@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Angel\Desktop\Dibuja1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="400af7af373ae78bfc6f8d908a2f27a7ba1bd070">
+        <dex dex="C:\Users\Jose Angel\Desktop\Dibuja1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b870b9cf11bc404dc64f99cb204216c59d18995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Angel\Desktop\Dibuja1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="beed747a73e0d2a2d414fcb3bbb784c265f63610">
+        <dex dex="C:\Users\Jose Angel\Desktop\Dibuja1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f10d62bc88f78f82ff335b5f2518a02f4970447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Jose Angel\Desktop\Dibuja1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\classes.dex" />
+    </item>
+
+</items>
